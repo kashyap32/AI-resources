@@ -1,4 +1,4 @@
-# AI-resources
+# Links of resources for learning AI. Feel free to suggest for more resources.
 <p><b>Resource for beginners:</b></p>
 <p><span style="font-weight: 400;">[1] </span><a href="http://natureofcode.com/book/introduction/"><span style="font-weight: 400;">THE NATURE OF CODE</span></a></p>
 <p><span style="font-weight: 400;">[2] </span><a href="https://mostafa-samir.github.io/ml-theory-pt1/"><span style="font-weight: 400;">Machine Learning Theory</span></a></p>
@@ -45,6 +45,9 @@
 <p>&nbsp;</p>
 <p><b>Resource for the average user:</b></p>
 <p><span style="font-weight: 400;">[1] </span><a href="http://www.deeplearningbook.org/"><span style="font-weight: 400;">Deep Learning,  An MIT Press book</span></a></p>
+<p><span style="font-weight: 400;">[1] </span><a href="https://www.datacamp.com/courses/deep-learning-in-python"><span style="font-weight: 400;">Deep Learning, Datacamp</span></a></p>
+<p><span style="font-weight: 400;">[1] </span><a href="https://www.pluralsight.com/courses/tensorflow-getting-started"><span style="font-weight: 400;">Tensorflow, Pluralsight</span></a></p>
+<p><span style="font-weight: 400;">[1] </span><a href="http://cs224d.stanford.edu/"><span style="font-weight: 400;">Natural Language Processing, Stanford</span></a></p>
 <p><span style="font-weight: 400;">[2] </span><a href="http://ufldl.stanford.edu/tutorial/"><span style="font-weight: 400;">Stanford University Deep Learning Tutorial</span></a></p>
 <p><span style="font-weight: 400;">[3] </span><a href="http://yerevann.com/a-guide-to-deep-learning/"><span style="font-weight: 400;">A Guide to Deep Learning</span></a></p>
 <p><span style="font-weight: 400;">[4] </span><a href="https://www.google.com/webmasters/tools/home?hl=en"><span style="font-weight: 400;">Deep Learning for Self-Driving Car</span></a></p>
@@ -254,4 +257,4 @@
 <p><a href="http://www.cs.toronto.edu/~ilya/"><span style="font-weight: 400;">Ilya Sutskever</span></a></p>
 <p><a href="https://gregbrockman.com/"><span style="font-weight: 400;">Greg Brockman</span></a></p>
 
-<script>
+Reference: http://aimedicines.com/2017/03/17/all-ai-resources-at-one-place/
