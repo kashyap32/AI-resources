@@ -118,6 +118,7 @@
 <p><span style="font-weight: 400;">[2] </span><a href="https://keras.io/"><span style="font-weight: 400;">Keras</span></a></p>
 <p><span style="font-weight: 400;">[3] </span><a href="http://scikit-learn.org/stable/"><span style="font-weight: 400;">Scikit-learn</span></a></p>
 <p><span style="font-weight: 400;">[4] </span><a href="https://openai.com/blog/universe/"><span style="font-weight: 400;">Universe</span></a></p>
+<p><span style="font-weight: 400;">[4] </span><a href="https://www.lua.org/"><span style="font-weight: 400;">Lua</span></a></p>
 <p><span style="font-weight: 400;">[5] </span><a href="http://torch.ch/"><span style="font-weight: 400;">Torch</span></a></p>
 <p><span style="font-weight: 400;">[6] </span><a href="http://deeplearning.net/software/theano/"><span style="font-weight: 400;">Theano</span></a></p>
 <p><span style="font-weight: 400;">[7] </span><a href="http://spark.apache.org/docs/latest/ml-guide.html"><span style="font-weight: 400;">Machine Learning Library (MLlib)</span></a></p>
