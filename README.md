@@ -1,4 +1,80 @@
 # Links of resources for learning AI. Feel free to suggest for more resources.
+
+Advanced Crash Courses
+Deep Learning by Ruslan Salakhutdinov @ KDD 2014
+http://videolectures.net/kdd2014_salakhutdinov_deep_learning
+
+
+Overview of DL including DBN, RBM, PGM etc which are not as popular these days. Very theoretical, dense and mathematical. Maybe not that useful for beginners. Salakhutdinov is another major player in DL.
+Introduction to Reinforcement Learning with Function Approximation by Rich Sutton @ NIPS 2015
+
+
+http://research.microsoft.com/apps/video/?id=259577
+
+
+Another intro to RL but more technical and theoretical. Rich Sutton is old school king of RL.
+Deep Reinforcement Learning by David Silver @ RLDM 2015
+
+
+http://videolectures.net/rldm2015_silver_reinforcement_learning
+
+
+Advanced intro to Deep RL as used by Deepmind on the Atari games and AlphaGo. Quite technical and requires decent understanding of RL, TD learning and Q-Learning etc. (see RL courses below). David Silver is the new school king of RL and superstar of Deepmind’s AlphaGo (which uses Deep RL).
+Monte Carlo Inference Methods by Ian Murray @ NIPS 2015
+
+
+http://research.microsoft.com/apps/video/?id=259575
+
+
+Good introduction and overview of sampling / monte carlo based methods. Not essential for a lot of DL, but good side knowledge to have.
+How to Grow a Mind: Statistics, Structure and Abstraction by Josh Tenenbaum @ AAAI 2012
+http://videolectures.net/aaai2012_tenenbaum_grow_mind/
+
+
+Completely unrelated to current DL and takes a very different approach: Bayesian Heirarchical Models. Not much success in real world yet, but I’m still a fan as the questions and problems they’re looking at feels a lot more applicable to real world than DL (e.g. one-shot learning and transfer learning, though Deepmind is looking at this with DL as well now).
+Two architectures for one-shot learning by Josh Tenenbaum @ NIPS 2013
+http://videolectures.net/nipsworkshops2013_tenenbaum_learning
+
+
+Similar to above but slightly more recent.
+
+Optimal and Suboptimal Control in Brain and Behavior by Nathaniel Daw @ NIPS 2015
+http://videolectures.net/rldm2015_daw_brain_and_behavior
+
+
+Quite unrelated to DL, looks at human learning — combined with research from pyschology and neuroscience — through the computational lens of RL. Requires decent understanding of RL.
+Lots more one-off video lectures at:
+http://videolectures.net/Top/Computer_Science/Artificial_Intelligence
+
+
+http://videolectures.net/Top/Computer_Science/Machine_Learning/
+
+
+Massive Open Online Courses (MOOC)
+These are concentrated long term courses consisting of many video lectures. Ordered very roughly in the order that I recommend they are watched.
+Foundation / Maths
+
+https://www.khanacademy.org/math/probability
+
+
+
+https://www.khanacademy.org/math/linear-algebra
+
+
+
+https://www.khanacademy.org/math/calculus-home
+
+
+
+http://research.microsoft.com/apps/video/?id=259574
+
+
+http://videolectures.net/sahd2014_lecun_deep_learning/
+
+
+http://videolectures.net/rldm2015_littman_computational_reinforcement
+
+
 <p><b>Resource for beginners:</b></p>
 <p><span style="font-weight: 400;">[1] </span><a href="http://natureofcode.com/book/introduction/"><span style="font-weight: 400;">THE NATURE OF CODE</span></a></p>
 <p><span style="font-weight: 400;">[2] </span><a href="https://mostafa-samir.github.io/ml-theory-pt1/"><span style="font-weight: 400;">Machine Learning Theory</span></a></p>
@@ -259,51 +335,5 @@
 <p><a href="https://www.microsoft.com/en-us/research/people/pkohli"><span style="font-weight: 400;">Pushmeet Kohli</span></a></p>
 <p><a href="http://www.cs.toronto.edu/~ilya/"><span style="font-weight: 400;">Ilya Sutskever</span></a></p>
 <p><a href="https://gregbrockman.com/"><span style="font-weight: 400;">Greg Brockman</span></a></p>
-Advanced Crash Courses
-Deep Learning by Ruslan Salakhutdinov @ KDD 2014
-http://videolectures.net/kdd2014_salakhutdinov_deep_learning
-Overview of DL including DBN, RBM, PGM etc which are not as popular these days. Very theoretical, dense and mathematical. Maybe not that useful for beginners. Salakhutdinov is another major player in DL.
-Introduction to Reinforcement Learning with Function Approximation by Rich Sutton @ NIPS 2015
-http://research.microsoft.com/apps/video/?id=259577
-Another intro to RL but more technical and theoretical. Rich Sutton is old school king of RL.
-Deep Reinforcement Learning by David Silver @ RLDM 2015
-http://videolectures.net/rldm2015_silver_reinforcement_learning
-Advanced intro to Deep RL as used by Deepmind on the Atari games and AlphaGo. Quite technical and requires decent understanding of RL, TD learning and Q-Learning etc. (see RL courses below). David Silver is the new school king of RL and superstar of Deepmind’s AlphaGo (which uses Deep RL).
-Monte Carlo Inference Methods by Ian Murray @ NIPS 2015
-http://research.microsoft.com/apps/video/?id=259575
-Good introduction and overview of sampling / monte carlo based methods. Not essential for a lot of DL, but good side knowledge to have.
-How to Grow a Mind: Statistics, Structure and Abstraction by Josh Tenenbaum @ AAAI 2012
-http://videolectures.net/aaai2012_tenenbaum_grow_mind/
-Completely unrelated to current DL and takes a very different approach: Bayesian Heirarchical Models. Not much success in real world yet, but I’m still a fan as the questions and problems they’re looking at feels a lot more applicable to real world than DL (e.g. one-shot learning and transfer learning, though Deepmind is looking at this with DL as well now).
-Two architectures for one-shot learning by Josh Tenenbaum @ NIPS 2013
-http://videolectures.net/nipsworkshops2013_tenenbaum_learning
-Similar to above but slightly more recent.
-Optimal and Suboptimal Control in Brain and Behavior by Nathaniel Daw @ NIPS 2015
-http://videolectures.net/rldm2015_daw_brain_and_behavior
-Quite unrelated to DL, looks at human learning — combined with research from pyschology and neuroscience — through the computational lens of RL. Requires decent understanding of RL.
-Lots more one-off video lectures at:
-http://videolectures.net/Top/Computer_Science/Artificial_Intelligence
-http://videolectures.net/Top/Computer_Science/Machine_Learning/
-Massive Open Online Courses (MOOC)
-These are concentrated long term courses consisting of many video lectures. Ordered very roughly in the order that I recommend they are watched.
-Foundation / Maths
 
-https://www.khanacademy.org/math/probability
-
-
-https://www.khanacademy.org/math/linear-algebra
-
-
-
-https://www.khanacademy.org/math/calculus-home
-
-
-
-http://research.microsoft.com/apps/video/?id=259574
-
-
-http://videolectures.net/sahd2014_lecun_deep_learning/
-
-
-http://videolectures.net/rldm2015_littman_computational_reinforcement
 Reference: http://aimedicines.com/2017/03/17/all-ai-resources-at-one-place/
