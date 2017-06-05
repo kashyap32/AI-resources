@@ -253,5 +253,5 @@
 <p><a href="https://www.microsoft.com/en-us/research/people/pkohli"><span style="font-weight: 400;">Pushmeet Kohli</span></a></p>
 <p><a href="http://www.cs.toronto.edu/~ilya/"><span style="font-weight: 400;">Ilya Sutskever</span></a></p>
 <p><a href="https://gregbrockman.com/"><span style="font-weight: 400;">Greg Brockman</span></a></p>
-<p><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><br />
+
 <script>
