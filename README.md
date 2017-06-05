@@ -287,19 +287,23 @@ http://videolectures.net/Top/Computer_Science/Machine_Learning/
 Massive Open Online Courses (MOOC)
 These are concentrated long term courses consisting of many video lectures. Ordered very roughly in the order that I recommend they are watched.
 Foundation / Maths
-If you want to understand the maths of ML/SI/DL then these are crucial. If you don’t want to understand the maths, but only want to understand the concepts then you could probably skip these and go straight to the introductory ML courses. However, this is also where some of the fundamental terminology is defined (prior, conditional, expected value, derivative, vector, matrix etc). So it helps to at least know what these things mean.
-Instead of going through all of these now, you could just watch some of the basic lessons first to help you understand the fundamentals. And then come back to some of the more advanced lessons if and when you encounter them. E.g. it’s quite probable that you’ll never encounter a Hessian matrix, or require eigenvectors or calculate the determinant of a matrix by hand. And only if and when you do, then you could come back and watch the relevant lessons. You can also skip proofs if you’re short on time, but they do help you understand better. Try not to be impatient.
-Khan is a superhero and will make you understand things you never knew you could.
-Khan Academy — Probability & Statistics
+
 https://www.khanacademy.org/math/probability
-ML is basically a subdiscipline of applied statistics mashed with computer science. So basic understanding of probability & statistics is essential. You don’t need to watch all lessons, but at least the first few sections to understand the concepts. Bear in mind as you watch the more advanced stuff — which may not be nessecary for ML — they actually help you understand the basic stuff better.
-Khan Academy — Linear Algebra
+
+
 https://www.khanacademy.org/math/linear-algebra
-Again you probably don’t need to watch them all, but at least vectors, matrics, operations on them, dot & cross product, matrix multiplication etc. is essential for the most basic understanding of ML maths. Basis, eigenvalues/eigenvectors is essential for deeper understanding for some areas, but you could scrape by without them, at least for now.
-Khan Academy — Calculus
+
+
+
 https://www.khanacademy.org/math/calculus-home
-Precalculus — trigonometry, vectors, matrices are essential. If you watched the linear algebra lessons above you may not need this. Complex numbers, sequences and series etc. are useful and come up in various advanced areas, but not nessecary for basics.
-Differential Calculus — Essential (esp chain rule) if you want to understand maths of ML. You could skip proofs and the applications if you’re impatient, though maxima / minima, concavity & inflection, optimization is important.
-Integral Calculus — I don’t think integral calculus is integral to DL (see what I did there? :). I’ve seen it in a few proofs, but it’s more of a niche thing I think in ML which beginners could skip for now. Watch at least the first sections to know what it is. Function approximation, series etc. do come up in more advanced areas but safe to skip for now.
-Multivariate Calculus — Essential if you really want to understand the maths of DL, especially (partial) derivatives of multivariable functions. Hessians, Jacobians, Laplacians etc come up a lot in advanced areas, but you could get by and understand basic ML without knowing these. I.e. you could skip these for now and come back later, once you encounter them.
+
+
+
+http://research.microsoft.com/apps/video/?id=259574
+
+
+http://videolectures.net/sahd2014_lecun_deep_learning/
+
+
+http://videolectures.net/rldm2015_littman_computational_reinforcement
 Reference: http://aimedicines.com/2017/03/17/all-ai-resources-at-one-place/
