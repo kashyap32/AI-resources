@@ -44,7 +44,9 @@
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p><b>Resource for the average user:</b></p>
+<p><span style="font-weight: 400;">[1] </span><a href="http://cs231n.github.io/"><span style="font-weight: 400;"> Convolutional Neural Networks for Visual Recognition. </span></a></p>
 <p><span style="font-weight: 400;">[1] </span><a href="http://www.deeplearningbook.org/"><span style="font-weight: 400;">Deep Learning,  An MIT Press book</span></a></p>
+
 <p><span style="font-weight: 400;">[1] </span><a href="https://www.datacamp.com/courses/deep-learning-in-python"><span style="font-weight: 400;">Deep Learning, Datacamp</span></a></p>
 <p><span style="font-weight: 400;">[1] </span><a href="https://www.pluralsight.com/courses/tensorflow-getting-started"><span style="font-weight: 400;">Tensorflow, Pluralsight</span></a></p>
 <p><span style="font-weight: 400;">[1] </span><a href="http://cs224d.stanford.edu/"><span style="font-weight: 400;">Natural Language Processing, Stanford</span></a></p>
