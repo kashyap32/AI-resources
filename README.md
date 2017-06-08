@@ -80,7 +80,8 @@ http://videolectures.net/rldm2015_littman_computational_reinforcement
 <p><span style="font-weight: 400;">[2] </span><a href="https://mostafa-samir.github.io/ml-theory-pt1/"><span style="font-weight: 400;">Machine Learning Theory</span></a></p>
 <p><span style="font-weight: 400;">[3] </span><a href="https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/"><span style="font-weight: 400;">Introduction to Computer Science and Programming in Python</span></a></p>
 <p><span style="font-weight: 400;">[4] </span><a href="http://students.brown.edu/seeing-theory/"><span style="font-weight: 400;">Seeing Theory</span></a></p>
-<p><span style="font-weight: 400;">[5] </span><a href="https://www.udacity.com/course/intro-to-artificial-intelligence--cs271"><span style="font-weight: 400;">Udacity courses </span></a></p>
+<p><span style="font-weight: 400;">[5] </span><a href="https://www.udacity.com/course/intro-to-artificial-intelligence--cs271"><span style="font-weight: 400;">Udacity - Intro to Artificial Intelligence</span></a></p>
+<p><span style="font-weight: 400;">[5] </span><a href="https://www.udacity.com/course/deep-learning-nanodegree-foundation--nd101"><span style="font-weight: 400;">Udacity - Deep Learning Foundations Course</span></a></p>
 <p><span style="font-weight: 400;">[6] </span><a href="http://karpathy.github.io/neuralnets/"><span style="font-weight: 400;">Hacker&#8217;s guide to Neural Networks</span></a></p>
 <p><span style="font-weight: 400;">[7] <a href="http://vision.stanford.edu/teaching/cs131_fall1617/index.html" target="_blank" rel="noopener noreferrer">CS 131 Computer Vision: Foundations and Applications</a></span></p>
 <p><span style="font-weight: 400;">[8] </span><a href="https://www.coursera.org/browse/data-science/machine-learning?languages=en&amp;source=deprecated_spark_cdp"><span style="font-weight: 400;">Coursera Machine Learning courses</span></a></p>
@@ -183,6 +184,7 @@ http://videolectures.net/rldm2015_littman_computational_reinforcement
 <p><span style="font-weight: 400;">[6] </span><a href="http://www.nature.com/articles/srep26094"><span style="font-weight: 400;">Deep Patient</span></a></p>
 <p><span style="font-weight: 400;">[7] </span><a href="https://www.ncbi.nlm.nih.gov/pubmed/10586990"><span style="font-weight: 400;">A space-time delay neural network</span></a></p>
 <p><span style="font-weight: 400;">[8] </span><a href="https://cloud.google.com/natural-language/"><span style="font-weight: 400;">Google Cloud Natural Language API</span></a></p>
+<p><span style="font-weight: 400;">[8] </span><a href="https://www.floydhub.com/"><span style="font-weight: 400;">FloydHub - Heroku for DL </span></a></p>
 <p><span style="font-weight: 400;">[9] </span><a href="http://www.artificialbrains.com/blue-brain-project"><span style="font-weight: 400;">Blue Brain Project</span></a></p>
 <p><span style="font-weight: 400;">[10] </span><a href="http://www.psi.toronto.edu/?q=publications"><span style="font-weight: 400;">Whole genome sequencing resource</span></a></p>
 <p><span style="font-weight: 400;">[11] </span><a href="http://www.alexirpan.com/archive/"><span style="font-weight: 400;">Sorta Insightful</span></a></p>
