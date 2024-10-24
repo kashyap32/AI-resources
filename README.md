@@ -120,6 +120,7 @@ http://videolectures.net/rldm2015_littman_computational_reinforcement
 <p>[40] <a href="http://aidl.io/issues/16#start" target="_blank" rel="noopener noreferrer">AIDL Blog</a></p>
 <p>[41] <a href="http://www.kdnuggets.com/" target="_blank" rel="noopener noreferrer">KD Nuggets </a></p>
 <p><span style="font-weight: 400;">[42] </span><a href="https://www.scaler.com/topics/what-is-deep-learning/"><span style="font-weight: 400;">What is Deep Learning?</span></a></p>
+<p><span style="font-weight: 400;">[1] </span><a href="https://www.appliedaicourse.com/blog/machine-learning/"><span style="font-weight: 400;">Applied AI Blog - Introduction to Machine Learning</span></a></p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p><b>Resource for the average user:</b></p>
