@@ -309,8 +309,9 @@ http://videolectures.net/rldm2015_littman_computational_reinforcement
 <p>[38] <a href="http://geometric.ai/" target="_blank" rel="noopener noreferrer">Geometric Intelligence</a></p>
 <p>[39] <a href="https://www.jukedeck.com/" target="_blank" rel="noopener noreferrer">jukedeck (AI Musician)</a></p>
 <p>[40] <a href="https://www.galaxy.ai/" target="_blank" rel="noopener noreferrer">Galaxy AI</a></p>
-<p>[41] <a href="http://www.atomwise.com/" target="_blank" rel="noopener noreferrer">Atomwise</a></p>
-<p>[42] <a href="https://deepart.io/" target="_blank" rel="noopener noreferrer">DeepArt</a></p>
+<p>[41] <a href="https://musely.ai/" target="_blank" rel="noopener noreferrer">Musely</a></p>
+<p>[42] <a href="http://www.atomwise.com/" target="_blank" rel="noopener noreferrer">Atomwise</a></p>
+<p>[43] <a href="https://deepart.io/" target="_blank" rel="noopener noreferrer">DeepArt</a></p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p><b>AI Personalities:</b></p>
